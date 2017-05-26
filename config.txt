@@ -1,0 +1,26 @@
+{
+	"ffProfiles":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yn80ouvt.default\\",
+    "downLoadTemporaryPath":"D:\\pabank1\\",
+    "downLoadPath":"D:\\pabank2\\",
+    "downLoadPathFinal":"D:\\pabank3\\",
+    "eamilFromName":"czhou@sfcservice.com",
+    "emailToName":"czhou@sfcservice.com",
+    "emailTo":"czhou@sfcservice.com",
+    "emailToCcName":[
+        "czhou@sfcservice.com"
+    ],
+    "emailCc":[
+        "czhou@sfcservice.com"
+    ],
+    "emailSubject":"PABank",
+    "emailBody":"test.txt",
+    "smtpServer":"smtp.exmail.qq.com",
+    "emailFromSend":"czhou@sfcservice.com",
+    "emailPassword":"Sfc123",
+    "data":[       
+        {
+            "paypalUser":"18038186719fu",
+            "paypalPassword":"zxcvbnm123"
+        }
+    ]
+}

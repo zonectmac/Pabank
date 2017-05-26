@@ -1,0 +1,29 @@
+{
+    "downLoadTemporaryPath":"D:\\NewTest\\",
+    "downLoadPath":"D:\\NewTest2\\",
+    "downLoadPathFinal":"D:\\NewTest3\\",
+    "eamilFromName":"czhou@sfcservice.com",
+    "emailToName":"czhou@sfcservice.com",
+    "emailTo":"czhou@sfcservice.com",
+    "emailToCcName":[
+        "czhou@sfcservice.com"
+    ],
+    "emailCc":[
+        "czhou@sfcservice.com"
+    ],
+    "emailSubject":"PABank",
+    "emailBody":"test.txt",
+    "smtpServer":"smtp.exmail.qq.com",
+    "emailFromSend":"czhou@sfcservice.com",
+    "emailPassword":"Sfc123",
+    "data":[       
+        {
+            "paypalUser":"18038186719fu",
+            "paypalPassword":"zxcvbnm123"
+        },
+		{
+            "paypalUser":"13823170550SHI",
+            "paypalPassword":"12290102"
+        }  		
+    ]
+}
