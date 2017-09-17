@@ -3,24 +3,24 @@
     "downLoadTemporaryPath":"D:\\pabank1\\",
     "downLoadPath":"D:\\pabank2\\",
     "downLoadPathFinal":"D:\\pabank3\\",
-    "eamilFromName":"czhou@sfcservice.com",
-    "emailToName":"czhou@sfcservice.com",
-    "emailTo":"czhou@sfcservice.com",
+    "eamilFromName":"czhddu@sfcddvice.com",
+    "emailToName":"czhddu@sfcsddice.com",
+    "emailTo":"czddu@sfcddice.com",
     "emailToCcName":[
-        "czhou@sfcservice.com"
+        "ddu@sfddce.com"
     ],
     "emailCc":[
-        "czhou@sfcservice.com"
+        "czhdddu@sddvice.com"
     ],
     "emailSubject":"PABank",
     "emailBody":"test.txt",
     "smtpServer":"smtp.exmail.qq.com",
-    "emailFromSend":"czhou@sfcservice.com",
-    "emailPassword":"Sfc123",
+    "emailFromSend":"czhdddou@sfddsddice.com",
+    "emailPassword":"Sdd3",
     "data":[       
         {
-            "paypalUser":"18038186719fu",
-            "paypalPassword":"zxcvbnm123"
+            "paypalUser":"180fff9fu",
+            "paypalPassword":"zffm123"
         }
     ]
 }
